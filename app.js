@@ -14,3 +14,6 @@ TuitsController(app);
 HelloController(app)
 UserController(app)
 app.listen(process.env.PORT || 4000)
+
+
+//deploy the Node server remotely on render.com(github account), instead of heroku
